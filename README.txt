@@ -1,3 +1,5 @@
+Acesse para ver o resultado: https://atbpqejcrtoi8cgoev49iq.streamlit.app/
+
 Análise de Dados de Voos na Índia
 
 Este projeto realiza a análise de dados de voos de companhias aéreas na Índia, com base em um conjunto de dados extraído de um arquivo .csv disponível no Kaggle.
